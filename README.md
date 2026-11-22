@@ -7,7 +7,7 @@
 I build practical tools that keep Windows estates running: reporting scripts, remediation packages, WPF admin GUIs, and reusable enterprise standards for PowerShell.
 
 [![Followers](https://img.shields.io/github/followers/mabdulkadr?style=for-the-badge&logo=github)](https://github.com/mabdulkadr?tab=followers)
-[![Repositories](https://img.shields.io/github/repos/mabdulkadr?style=for-the-badge&logo=github)](https://github.com/mabdulkadr?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-24-10B981?style=for-the-badge&logo=github)](https://github.com/mabdulkadr?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/mabdulkadr?style=for-the-badge&logo=github)](https://github.com/mabdulkadr?tab=repositories)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-us/microsoft-365/)
